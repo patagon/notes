@@ -1,0 +1,51 @@
+
+* Curso Jenkins
+
+https://www.youtube.com/watch?v=RR0LabeUQ88
+https://github.com/cchrysostom/Temperature
+
+* Plugin Jenkins video FedePaz
+https://wiki.jenkins-ci.org/display/JENKINS/Delivery+Pipeline+Plugin
+
+* Microsoft: DEV217x Accelerate Software Delivery using DevOps
+https://courses.edx.org/courses/course-v1:Microsoft+DEV217x+3T2016/courseware/d5645af8d96f41d8bac6d93b97f346b8/869bcdd9acb34576ad1ccb0fab5af181/?child=first
+
+* Continuous integration, test, and deployment example
+https://www.visualstudio.com/en-us/docs/test/continuous-testing/example-continuous-testing
+
+* Kubernetes from scratch to AWS with Terraform and Ansible (part 1)
+https://opencredo.com/kubernetes-aws-terraform-ansible-1/
+
+* Post JS from BlueOcean
+https://nylas.com/blog/react-plugins
+
+* The Fundamentals of REST API Design
+https://stormpath.com/blog/fundamentals-rest-api-design
+
+* Best Practices for Building a Microservice Architecture
+http://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#independent
+
+* List of build automation software
+https://en.wikipedia.org/wiki/List_of_build_automation_software
+
+* GIT IGNORE
+https://www.gitignore.io/
+
+* POSTCAST
+https://www.heavybit.com/library/podcasts/to-be-continuous/
+
+* Compiling SASS in Visual Studio 2015
+http://www.gibedigital.com/blog/2015/may/28/compiling-sass-in-visual-studio-2015/
+
+* Developing with .NET on Microsoft Azure - Getting Started
+https://www.pluralsight.com/courses/developing-dotnet-microsoft-azure-getting-started
+https://app.pluralsight.com/player?author=scott-allen&name=cf099c18-16b6-4ba0-832e-bade58958f6d&mode=live&clip=4&course=developing-dotnet-microsoft-azure-getting-started
+
+* Deploying PHP web applications to Azure App Service
+https://hajekj.net/2017/04/20/deploying-php-web-applications-to-azure-app-service/
+
+* Creating a build agent and definition for PHP in VSTS?
+https://hajekj.net/2016/10/30/creating-a-build-agent-and-definition-for-php-in-vsts/
+
+
+
