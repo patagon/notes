@@ -47,5 +47,10 @@ https://hajekj.net/2017/04/20/deploying-php-web-applications-to-azure-app-servic
 * Creating a build agent and definition for PHP in VSTS?
 https://hajekj.net/2016/10/30/creating-a-build-agent-and-definition-for-php-in-vsts/
 
+* REDUX
+http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container
 
+* Reliability Engineering
+https://en.wikipedia.org/wiki/Reliability_engineering
+https://en.wikipedia.org/wiki/Site_reliability_engineering
 
