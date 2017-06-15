@@ -37,6 +37,16 @@ https://www.heavybit.com/library/podcasts/to-be-continuous/
 * Compiling SASS in Visual Studio 2015
 http://www.gibedigital.com/blog/2015/may/28/compiling-sass-in-visual-studio-2015/
 
+
+* Chess
+https://www.quora.com/Can-playing-chess-make-you-a-better-computer-programmer
+http://benas.github.io/2015/02/20/how-chess-made-me-a-better-software-engineer.html
+https://seanhamptoncole.wordpress.com/2013/03/26/living-strategically-50-lessons-chess-teaches-you-about-life/
+http://www.quadcitychess.com/benefits_of_chess.html
+
+* Software & Engineering
+http://coliveira.net/software/how-to-become-a-better-developer-in-30-days/
+
 * Developing with .NET on Microsoft Azure - Getting Started
 https://www.pluralsight.com/courses/developing-dotnet-microsoft-azure-getting-started
 https://app.pluralsight.com/player?author=scott-allen&name=cf099c18-16b6-4ba0-832e-bade58958f6d&mode=live&clip=4&course=developing-dotnet-microsoft-azure-getting-started
