@@ -64,3 +64,7 @@ http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-r
 https://en.wikipedia.org/wiki/Reliability_engineering
 https://en.wikipedia.org/wiki/Site_reliability_engineering
 
+* Pair programming
+https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.sockscode-vscode
+https://sockscode.azurewebsites.net/
+
