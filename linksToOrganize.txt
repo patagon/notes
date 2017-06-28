@@ -68,3 +68,5 @@ https://en.wikipedia.org/wiki/Site_reliability_engineering
 https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.sockscode-vscode
 https://sockscode.azurewebsites.net/
 
+* Channel 9 
+https://channel9.msdn.com/Series/DevOps-Fundamentals/Infrastructure-as-Code
