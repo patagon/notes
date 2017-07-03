@@ -60,6 +60,11 @@ https://hajekj.net/2016/10/30/creating-a-build-agent-and-definition-for-php-in-v
 * REDUX
 http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container
 
+* GULP
+https://semaphoreci.com/community/tutorials/getting-started-with-gulp-js
+https://www.sitepoint.com/introduction-gulp-js/
+http://www.davepaquette.com/archive/2014/10/08/how-to-use-gulp-in-visual-studio.aspx
+
 * Reliability Engineering
 https://en.wikipedia.org/wiki/Reliability_engineering
 https://en.wikipedia.org/wiki/Site_reliability_engineering
