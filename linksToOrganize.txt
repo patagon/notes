@@ -69,6 +69,9 @@ http://www.davepaquette.com/archive/2014/10/08/how-to-use-gulp-in-visual-studio.
 https://en.wikipedia.org/wiki/Reliability_engineering
 https://en.wikipedia.org/wiki/Site_reliability_engineering
 
+* Mastering The Developer Tools Console
+http://blog.teamtreehouse.com/mastering-developer-tools-console
+
 * Pair programming
 https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.sockscode-vscode
 https://sockscode.azurewebsites.net/
