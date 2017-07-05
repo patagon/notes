@@ -81,3 +81,7 @@ https://channel9.msdn.com/Series/DevOps-Fundamentals/Infrastructure-as-Code
 
 * Databases and Devops
 https://hybriddbablog.com/
+
+
+* Visualización de estructuras de datos y algoritmos mediante animación 
+https://visualgo.net/es
