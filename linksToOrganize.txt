@@ -65,6 +65,12 @@ https://semaphoreci.com/community/tutorials/getting-started-with-gulp-js
 https://www.sitepoint.com/introduction-gulp-js/
 http://www.davepaquette.com/archive/2014/10/08/how-to-use-gulp-in-visual-studio.aspx
 
+* Bootsnipp
+Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework
+
+https://bootsnipp.com/snippets/KB5EW
+https://bootsnipp.com/forms
+
 * Reliability Engineering
 https://en.wikipedia.org/wiki/Reliability_engineering
 https://en.wikipedia.org/wiki/Site_reliability_engineering
