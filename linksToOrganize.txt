@@ -91,3 +91,17 @@ https://hybriddbablog.com/
 
 * Visualización de estructuras de datos y algoritmos mediante animación 
 https://visualgo.net/es
+
+
+* HowTo Encrypt And Decrypt Files With A Password
+https://www.cyberciti.biz/tips/linux-how-to-encrypt-and-decrypt-files-with-a-password.html
+
+Install gnupg in Debian/Ubuntu/Mint Linux
+$ sudo apt-get install gnupg
+
+Encrypting a file in Linux or Unix
+$ gpg -c myfinancial.info.txt
+
+Decrypt a file in Linux or Unix-like system
+$ gpg myfinancial.info.txt.gpg
+
