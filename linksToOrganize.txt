@@ -1,21 +1,3 @@
-
-* Curso Jenkins
-
-https://www.youtube.com/watch?v=RR0LabeUQ88
-https://github.com/cchrysostom/Temperature
-
-* Plugin Jenkins video FedePaz
-https://wiki.jenkins-ci.org/display/JENKINS/Delivery+Pipeline+Plugin
-
-* Microsoft: DEV217x Accelerate Software Delivery using DevOps
-https://courses.edx.org/courses/course-v1:Microsoft+DEV217x+3T2016/courseware/d5645af8d96f41d8bac6d93b97f346b8/869bcdd9acb34576ad1ccb0fab5af181/?child=first
-
-* Continuous integration, test, and deployment example
-https://www.visualstudio.com/en-us/docs/test/continuous-testing/example-continuous-testing
-
-* Kubernetes from scratch to AWS with Terraform and Ansible (part 1)
-https://opencredo.com/kubernetes-aws-terraform-ansible-1/
-
 * Post JS from BlueOcean
 https://nylas.com/blog/react-plugins
 
@@ -25,9 +7,6 @@ https://stormpath.com/blog/fundamentals-rest-api-design
 * Best Practices for Building a Microservice Architecture
 http://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#independent
 
-* List of build automation software
-https://en.wikipedia.org/wiki/List_of_build_automation_software
-
 * GIT IGNORE
 https://www.gitignore.io/
 
@@ -36,7 +15,6 @@ https://www.heavybit.com/library/podcasts/to-be-continuous/
 
 * Compiling SASS in Visual Studio 2015
 http://www.gibedigital.com/blog/2015/may/28/compiling-sass-in-visual-studio-2015/
-
 
 * Chess
 https://www.quora.com/Can-playing-chess-make-you-a-better-computer-programmer
@@ -82,19 +60,16 @@ http://blog.teamtreehouse.com/mastering-developer-tools-console
 https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.sockscode-vscode
 https://sockscode.azurewebsites.net/
 
-* Channel 9 
-https://channel9.msdn.com/Series/DevOps-Fundamentals/Infrastructure-as-Code
-
 * Databases and Devops
 https://hybriddbablog.com/
-
 
 * Visualización de estructuras de datos y algoritmos mediante animación 
 https://visualgo.net/es
 
-
 * HowTo Encrypt And Decrypt Files With A Password
 https://www.cyberciti.biz/tips/linux-how-to-encrypt-and-decrypt-files-with-a-password.html
+
+
 
 Install gnupg in Debian/Ubuntu/Mint Linux
 $ sudo apt-get install gnupg
@@ -105,3 +80,31 @@ $ gpg -c myfinancial.info.txt
 Decrypt a file in Linux or Unix-like system
 $ gpg myfinancial.info.txt.gpg
 
+
+=== DEVOPS ===
+
+* Jenkins
+https://www.youtube.com/watch?v=RR0LabeUQ88
+https://github.com/cchrysostom/Temperature
+
+* Plugin Jenkins video FedePaz
+https://wiki.jenkins-ci.org/display/JENKINS/Delivery+Pipeline+Plugin
+
+* Microsoft: DEV217x Accelerate Software Delivery using DevOps
+https://courses.edx.org/courses/course-v1:Microsoft+DEV217x+3T2016/courseware/d5645af8d96f41d8bac6d93b97f346b8/869bcdd9acb34576ad1ccb0fab5af181/?child=first
+
+* Continuous integration, test, and deployment example
+https://www.visualstudio.com/en-us/docs/test/continuous-testing/example-continuous-testing
+
+* Kubernetes from scratch to AWS with Terraform and Ansible (part 1)
+https://opencredo.com/kubernetes-aws-terraform-ansible-1/
+
+* Wercker
+Wercker is a Docker-Native CI/CD Automation platform for Kubernetes & Microservice Deployments
+http://www.wercker.com
+
+* Channel 9 
+https://channel9.msdn.com/Series/DevOps-Fundamentals/Infrastructure-as-Code
+
+* List of build automation software
+https://en.wikipedia.org/wiki/List_of_build_automation_software
