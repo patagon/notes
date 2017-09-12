@@ -80,6 +80,10 @@ $ gpg -c myfinancial.info.txt
 Decrypt a file in Linux or Unix-like system
 $ gpg myfinancial.info.txt.gpg
 
+=== PHP ===
+
+http://itsolutionstuff.com/post/laravel-55-crud-example-from-scratchexample.html
+
 
 === DEVOPS ===
 
