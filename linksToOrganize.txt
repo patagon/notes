@@ -112,3 +112,7 @@ https://channel9.msdn.com/Series/DevOps-Fundamentals/Infrastructure-as-Code
 
 * List of build automation software
 https://en.wikipedia.org/wiki/List_of_build_automation_software
+
+
+* hackathon
+https://hackathon.guide/
