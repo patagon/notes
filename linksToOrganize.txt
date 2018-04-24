@@ -119,3 +119,10 @@ https://hackathon.guide/
 
 * Being A Developer Advocate At JetBrains
 https://trishagee.github.io/post/my_job/
+
+* "Uncle" Bob Martin - "The Future of Programming"
+https://www.youtube.com/watch?v=ecIWPzGEbFc
+
+
+* Microservices, Service Mesh, and CI/CD Pipelines: Making It All Work Together [I] - Brian Redmond
+https://www.youtube.com/watch?v=UbLG_qUyCgM
